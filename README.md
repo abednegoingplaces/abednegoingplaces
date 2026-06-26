@@ -58,3 +58,10 @@ I enjoy building products from the ground up — from concept and design through
 
 ---
 
+## GitHub Stats
+
+![Abeddy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abednegoingplaces&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=abednegoingplaces&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abednegoingplaces&layout=compact&theme=tokyonight)
