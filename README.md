@@ -1,32 +1,41 @@
-# Hi, I'm Abednego Ndimu 👋
+# Abednego Ndimu
 
-**Computer Scientist | Frontend Developer | UI/UX Designer | Cyber Security Explorer**
+**Full-Stack Developer | Tech Entrepreneur** 💻
 
----
-
-## About Me
-
-I'm a passionate computer science student and frontend developer with expertise in designing minimalist, highly intuitive user interfaces and bringing them to life with clean, efficient code. My stack focuses heavily on HTML5, CSS3, JavaScript, and TypeScript for responsive frontend builds, backed by a strong foundation in system design and discrete structures.
-
-I have hands-on experience crafting custom interactive web applications, managing repository architectures, and exploring defensive cyber security workflows.
-
-* 🎓 Computer Science Student at Laikipia University
-* 🎨 UI/UX Design & Wireframing (Figma)
-* 💻 Frontend Development (HTML5, CSS3, JS, TS)
-* ⚡ Interactive Projects & Client Customizations
-* 🛡️ Systems Maintenance & Cyber Security Exploration
-* 🤝 Open to collaborations in web development, interactive UIs, and software engineering.
+Open to collaboration
 
 ---
 
-## Languages & Tools
+## About
 
-### Frontend & Design
-* **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
-* **Design Tools:** Figma, Adobe XD
-* **IDEs & Editors:** Visual Studio Code
+I'm a passionate full-stack developer and computer science student with hands-on experience building modern web applications end-to-end. I work primarily in Python (FastAPI) on the backend, with Next.js, React, and TypeScript on the frontend, styled with Tailwind CSS. I have a strong foundation in relational databases (PostgreSQL) and enjoy turning ideas into functional, deployed products.
 
-### Deployment & Tools
-* **Hosting:** Vercel, Netlify, GitHub Pages
-* **Version Control:** Git, GitHub, GitHub CLI
-* **Scripting & Shells:** PowerShell, Bash
+* Full-Stack Web Development (Next.js, FastAPI, TypeScript)
+* UI/UX Design & Frontend Architecture
+* Database Design (PostgreSQL)
+* Cyber Security Exploration
+* Cloud Deployment (Vercel, Render)
+
+I enjoy building products from the ground up — from concept and design through to deployment — so feel free to reach out if you'd like to talk tech, collaborate, or just connect.
+
+---
+
+## Tech Stack
+
+**Languages**
+JavaScript, TypeScript, Python, HTML5, CSS3
+
+**Frontend**
+Next.js, React, Tailwind CSS
+
+**Backend**
+FastAPI, Python
+
+**Databases**
+PostgreSQL
+
+**DevOps & Tools**
+Vercel, Render, Git, GitHub, PowerShell, Bash
+
+---
+
