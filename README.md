@@ -1,4 +1,4 @@
-# Hi, I'm Abednego Ndimu ??
+# Hi, I'm Abednego Ndimu 👋
 
 **Computer Scientist | Frontend Developer | UI/UX Designer | Cyber Security Explorer**
 
@@ -10,12 +10,12 @@ I'm a passionate computer science student and frontend developer with expertise 
 
 I have hands-on experience crafting custom interactive web applications, managing repository architectures, and exploring defensive cyber security workflows.
 
-* ?? Computer Science Student at Laikipia University
-* ?? UI/UX Design & Wireframing (Figma)
-* ?? Frontend Development (HTML5, CSS3, JS, TS)
-* ? Interactive Projects & Client Customizations
-* ??? Systems Maintenance & Cyber Security Exploration
-* ?? Open to collaborations in web development, interactive UIs, and software engineering.
+* 🎓 Computer Science Student at Laikipia University
+* 🎨 UI/UX Design & Wireframing (Figma)
+* 💻 Frontend Development (HTML5, CSS3, JS, TS)
+* ⚡ Interactive Projects & Client Customizations
+* 🛡️ Systems Maintenance & Cyber Security Exploration
+* 🤝 Open to collaborations in web development, interactive UIs, and software engineering.
 
 ---
 
