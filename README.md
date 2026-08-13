@@ -8,15 +8,37 @@ Open to collaboration
 
 ## About
 
-I'm a passionate full-stack developer and computer science student with hands-on experience building modern web applications end-to-end. I work primarily in Python (FastAPI) on the backend, with Next.js, React, and TypeScript on the frontend, styled with Tailwind CSS. I have a strong foundation in relational databases (PostgreSQL) and enjoy turning ideas into functional, deployed products.
+I'm a passionate full-stack developer and computer science student with hands-on experience building modern web applications end-to-end. I work primarily in Python (FastAPI) on the backend, with Next.js, React, TanStack Start, and TypeScript on the frontend, styled with Tailwind CSS. I have a strong foundation in relational databases (PostgreSQL) and enjoy turning ideas into functional, deployed products.
 
-* Full-Stack Web Development (Next.js, FastAPI, TypeScript)
+* Full-Stack Web Development (Next.js, TanStack Start, FastAPI, TypeScript)
 * UI/UX Design & Frontend Architecture
 * Database Design (PostgreSQL)
+* Data Analytics (Power BI, Python data pipelines)
 * Cyber Security Exploration
 * Cloud Deployment (Vercel, Render)
 
+Lately I've been branching into **data analytics** — completed an ICT Authority Kenya Data Analytics training, working with Power BI and Python-to-Power BI pipelines — alongside deeper **cybersecurity** study (phishing mechanics, session hijacking, malware taxonomy, the cyber kill chain), all self-directed and hands-on with Kali Linux.
+
 I enjoy building products from the ground up — from concept and design through to deployment — so feel free to reach out if you'd like to talk tech, collaborate, or just connect.
+
+---
+
+## Featured Projects
+
+**[WorldCupDNA](https://worldcupdna-frontend.vercel.app)** — Fan Identity & Prediction Platform for FIFA World Cup 2026. Next.js frontend, FastAPI backend, live match tracking for all 104 matches.
+`Next.js` `FastAPI` `PostgreSQL` `Vercel` `Render`
+
+**[Canvasly Studio](https://canvaslystudio.vercel.app)** — Sleek, minimalist browser-based canvas editor. Single-file, no-build-step design.
+`HTML` `Canvas API` `JavaScript`
+
+**[Animalia Vocalization](https://animalia-vocalization.vercel.app)** — Real-time audio analysis platform: live waveforms and spectrograms via the Web Audio API, pitch detection through autocorrelation.
+`Web Audio API` `JavaScript`
+
+**Abeddy's AI Assistant** — Personal WhatsApp & Instagram auto-reply bot with a rules-first escalation pattern before falling back to an LLM.
+`Node.js` `TypeScript` `Prisma` `PostgreSQL` `Redis` `Railway`
+
+**Vaultra** — FastAPI backend for a multi-user private file storage system: JWT auth, Backblaze B2 via presigned URLs, Neon Postgres.
+`FastAPI` `PostgreSQL` `Backblaze B2`
 
 ---
 
@@ -34,16 +56,30 @@ I enjoy building products from the ground up — from concept and design through
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TanStack](https://img.shields.io/badge/-TanStack-FF4154?style=flat-square&logo=react-query&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Zod](https://img.shields.io/badge/-Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 
 **Backend**
 
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Data & Payments**
+
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+
+**Security**
+
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 
 **DevOps & Tools**
 
@@ -65,3 +101,12 @@ I enjoy building products from the ground up — from concept and design through
 ![GitHub Streak](https://streak-stats.demolab.com?user=abednegoingplaces&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abednegoingplaces&layout=compact&theme=tokyonight)
+
+---
+
+## Connect
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-1A1612?style=flat-square&logo=vercel&logoColor=white)](https://abednego-portfolio-five.vercel.app/)
+[![Fiverr](https://img.shields.io/badge/-Fiverr-1DBF73?style=flat-square&logo=fiverr&logoColor=white)](https://www.fiverr.com/abednegoingplac)
+[![X](https://img.shields.io/badge/-@_abeddy-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/_abeddy)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:moraraabednego79@gmail.com)
