@@ -1,6 +1,6 @@
 # Abednego Ndimu
 
-**Full-Stack Developer | Tech Entrepreneur** 💻
+**Full-Stack Developer | Data Analyst | Cyber Security** 💻
 
 Open to collaboration
 
@@ -17,7 +17,9 @@ I'm a passionate full-stack developer and computer science student with hands-on
 * Cyber Security Exploration
 * Cloud Deployment (Vercel, Render)
 
-Lately I've been branching into **data analytics** — completed an ICT Authority Kenya Data Analytics training, working with Power BI and Python-to-Power BI pipelines — alongside deeper **cybersecurity** study (phishing mechanics, session hijacking, malware taxonomy, the cyber kill chain), all self-directed and hands-on with Kali Linux.
+Lately I've been branching into **data analytics** — completed an ICT Authority Kenya Data Analytics training, working with Power BI and Python-to-Power BI pipelines.
+
+On the **cybersecurity** side, I run a dual-boot Kali Linux setup and study attacker techniques hands-on: phishing mechanics (cookie theft, session hijacking), malware taxonomy, and account-takeover vectors — including analyzing a real confused-deputy exploit in a Meta AI chatbot. I've also studied the cyber kill chain end-to-end and built projects with a security-first mindset (e.g. command whitelisting and pre-approved remote actions in a server-monitoring tool I designed). All of this is self-directed and hands-on, not a formal credential yet — but it's shaping how I think about the software I build.
 
 I enjoy building products from the ground up — from concept and design through to deployment — so feel free to reach out if you'd like to talk tech, collaborate, or just connect.
 
@@ -70,6 +72,9 @@ I enjoy building products from the ground up — from concept and design through
 **Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Neon](https://img.shields.io/badge/-Neon-00E599?style=flat-square&logo=neon&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 **Data & Payments**
@@ -90,7 +95,11 @@ I enjoy building products from the ground up — from concept and design through
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-**Also familiar with:** C, Java
+**Also familiar with**
+
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 
 ---
 
@@ -106,6 +115,7 @@ I enjoy building products from the ground up — from concept and design through
 
 ## Connect
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abeddy-ndimu-584b49409)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-1A1612?style=flat-square&logo=vercel&logoColor=white)](https://abednego-portfolio-five.vercel.app/)
 [![Fiverr](https://img.shields.io/badge/-Fiverr-1DBF73?style=flat-square&logo=fiverr&logoColor=white)](https://www.fiverr.com/abednegoingplac)
 [![X](https://img.shields.io/badge/-@_abeddy-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/_abeddy)
