@@ -107,11 +107,14 @@ I enjoy building products from the ground up — from concept and design through
 
 ## GitHub Stats
 
-![Abeddy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abednegoingplaces&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img height="165" src="https://github-readme-stats-three-lac-48.vercel.app/api?username=abednegoingplaces&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats-three-lac-48.vercel.app/api/top-langs/?username=abednegoingplaces&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=abednegoingplaces&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abednegoingplaces&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abednegoingplaces&theme=tokyonight&hide_border=true" alt="Streak"/>
+</p>
 
 ---
 
