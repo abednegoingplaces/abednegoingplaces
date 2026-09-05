@@ -116,6 +116,14 @@ I enjoy building products from the ground up — from concept and design through
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abednegoingplaces&theme=tokyonight&hide_border=true" alt="Streak"/>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/insights/metrics-rhythm.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/insights/metrics-rhythm-light.svg">
+    <img src="assets/insights/metrics-rhythm.svg" alt="Contribution Rhythm"/>
+  </picture>
+</p>
+
 ---
 
 ## Connect
