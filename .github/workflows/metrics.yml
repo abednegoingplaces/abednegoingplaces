@@ -1,0 +1,21 @@
+name: Metrics
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * 0" # weekly, Sunday midnight
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: urmzd/github-insights@main
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          sections: rhythm
+          readme-path: none
+          commit-message: "chore: update contribution rhythm chart"
