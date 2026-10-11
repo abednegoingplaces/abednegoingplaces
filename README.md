@@ -1,6 +1,6 @@
 # Abednego Ndimu
 
-**Full-Stack Developer | Data Analyst | Cyber Security** 💻
+**Computer Science Student | Full-Stack Developer | Data Analytics | Cyber Security** 💻
 
 Open to collaboration
 
@@ -8,7 +8,7 @@ Open to collaboration
 
 ## About
 
-I'm a passionate full-stack developer and computer science student with hands-on experience building modern web applications end-to-end. I work primarily in Python (FastAPI) on the backend, with Next.js, React, TanStack Start, and TypeScript on the frontend, styled with Tailwind CSS. I have a strong foundation in relational databases (PostgreSQL) and enjoy turning ideas into functional, deployed products.
+I'm a computer science student (2nd year) and a passionate full-stack developer with hands-on experience building modern web applications end-to-end. I work primarily in Python (FastAPI) on the backend, with Next.js, React, TanStack Start, and TypeScript on the frontend, styled with Tailwind CSS. I have a strong foundation in relational databases (PostgreSQL) and enjoy turning ideas into functional, deployed products.
 
 * Full-Stack Web Development (Next.js, TanStack Start, FastAPI, TypeScript)
 * UI/UX Design & Frontend Architecture
@@ -17,20 +17,35 @@ I'm a passionate full-stack developer and computer science student with hands-on
 * Cyber Security Exploration
 * Cloud Deployment (Vercel, Render)
 
-Lately I've been branching into **data analytics** — completed an ICT Authority Kenya Data Analytics training, working with Power BI and Python-to-Power BI pipelines.
+Lately I've been branching into **data analytics** — completed an ICT Authority of Kenya Data Analytics training (with Sigma Digital Technical Institute, July 2026), working with Power BI and Python-to-Power BI pipelines. I'm looking to learn more and grow toward **AI and applied data science**.
 
-On the **cybersecurity** side, I run a dual-boot Kali Linux setup and study attacker techniques hands-on: phishing mechanics (cookie theft, session hijacking), malware taxonomy, and account-takeover vectors — including analyzing a real confused-deputy exploit in a Meta AI chatbot. I've also studied the cyber kill chain end-to-end and built projects with a security-first mindset (e.g. command whitelisting and pre-approved remote actions in a server-monitoring tool I designed). All of this is self-directed and hands-on, not a formal credential yet — but it's shaping how I think about the software I build.
+On the **cybersecurity** side, I run a dual-boot Kali Linux setup and study attacker techniques hands-on: phishing mechanics (cookie theft, session hijacking), malware taxonomy, and account-takeover vectors — including analyzing a real confused-deputy exploit in a Meta AI chatbot. I've also studied the cyber kill chain end-to-end and built projects with a security-first mindset (e.g. command whitelisting and pre-approved remote actions in a server-monitoring tool I designed). This started as self-directed, hands-on study, and I'm now formalizing it with a **cybersecurity course on Cisco Networking Academy (in progress)**. It's shaping how I think about the software I build.
 
 I enjoy building products from the ground up — from concept and design through to deployment — so feel free to reach out if you'd like to talk tech, collaborate, or just connect.
 
 ---
 
+## Currently
+
+* Computer Science student (2nd year)
+* Cybersecurity course on Cisco Networking Academy (in progress)
+* Exploring AI and applied data science
+* Building AVisionary and BridgePay
+
+---
+
 ## Featured Projects
 
-**[WorldCupDNA](https://worldcupdna-frontend.vercel.app)** — Fan Identity & Prediction Platform for FIFA World Cup 2026. Next.js frontend, FastAPI backend, live match tracking for all 104 matches.
+**[AVisionary](https://avisionary.app)** -- A dignity-first learning and creator platform. I work on it as a full-stack developer with a small team.
+`TypeScript` `FastAPI` `Tailwind CSS`
+
+**[BridgePay](https://github.com/Mark-Musyoka/BridgePay-Frontend)** -- Payments platform with wallets, transfers, and M-Pesa and Stripe deposits and payouts. I built most of the backend and frontend, together with collaborators [Mark Musyoka](https://github.com/Mark-Musyoka) and [Frankline Tumaini](https://github.com/Antony-debug-jpg).
+`FastAPI` `Next.js` `PostgreSQL` `Redis` `Stripe`
+
+**[WorldCupDNA](https://worldcupdna-frontend.vercel.app)** — Fan Identity & Prediction Platform built for FIFA World Cup 2026. Next.js frontend, FastAPI backend, tracking all 104 matches.
 `Next.js` `FastAPI` `PostgreSQL` `Vercel` `Render`
 
-**[Canvasly Studio](https://canvaslystudio.vercel.app)** — Sleek, minimalist browser-based canvas editor. Single-file, no-build-step design.
+**[Canvaly Studio](https://canvaslystudio.vercel.app)** — Sleek, minimalist browser-based canvas editor. Single-file, no-build-step design.
 `HTML` `Canvas API` `JavaScript`
 
 **[Animalia Vocalization](https://animalia-vocalization.vercel.app)** — Real-time audio analysis platform: live waveforms and spectrograms via the Web Audio API, pitch detection through autocorrelation.
