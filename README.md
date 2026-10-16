@@ -19,7 +19,9 @@ I'm a computer science student (2nd year) and a passionate full-stack developer 
 
 Lately I've been branching into **data analytics** — completed an ICT Authority of Kenya Data Analytics training (with Sigma Digital Technical Institute, July 2026), working with Power BI and Python-to-Power BI pipelines. I'm looking to learn more and grow toward **AI and applied data science**.
 
-On the **cybersecurity** side, I run a dual-boot Kali Linux setup and study attacker techniques hands-on: phishing mechanics (cookie theft, session hijacking), malware taxonomy, and account-takeover vectors — including analyzing a real confused-deputy exploit in a Meta AI chatbot. I've also studied the cyber kill chain end-to-end and built projects with a security-first mindset (e.g. command whitelisting and pre-approved remote actions in a server-monitoring tool I designed). This started as self-directed, hands-on study, and I'm now formalizing it with a **cybersecurity course on Cisco Networking Academy (in progress)**. It's shaping how I think about the software I build.
+Alongside this, I'm studying **networking** through **Cisco Networking Academy**: network devices, media and protocols; Ethernet and IP addressing; setting up a wireless router and building a simple LAN; and application-layer services.
+
+On the **cybersecurity** side, I run a dual-boot Kali Linux setup and study attacker techniques hands-on: phishing mechanics (cookie theft, session hijacking), malware taxonomy, and account-takeover vectors — including analyzing a real confused-deputy exploit in a Meta AI chatbot. I've also studied the cyber kill chain end-to-end and built projects with a security-first mindset (e.g. command whitelisting and pre-approved remote actions in a server-monitoring tool I designed). This started as self-directed, hands-on study, and I'm now formalizing it with a **cybersecurity course on Cisco Networking Academy (in progress)**. It's shaping how I think about the software I build. Major subjects: types of cyberattacks and threats, protecting personal and organizational data, security principles and network defense, and career paths in cybersecurity.
 
 I enjoy building products from the ground up — from concept and design through to deployment — so feel free to reach out if you'd like to talk tech, collaborate, or just connect.
 
@@ -28,6 +30,7 @@ I enjoy building products from the ground up — from concept and design through
 ## Currently
 
 * Computer Science student (2nd year)
+* Networking (Cisco Networking Academy, in progress)
 * Cybersecurity course on Cisco Networking Academy (in progress)
 * Exploring AI and applied data science
 * Building BridgePay
