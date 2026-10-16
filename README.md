@@ -30,14 +30,11 @@ I enjoy building products from the ground up — from concept and design through
 * Computer Science student (2nd year)
 * Cybersecurity course on Cisco Networking Academy (in progress)
 * Exploring AI and applied data science
-* Building AVisionary and BridgePay
+* Building BridgePay
 
 ---
 
 ## Featured Projects
-
-**[AVisionary](https://avisionary.app)** -- A dignity-first learning and creator platform. I work on it as a full-stack developer with a small team.
-`TypeScript` `FastAPI` `Tailwind CSS`
 
 **[BridgePay](https://github.com/Mark-Musyoka/BridgePay-Frontend)** -- Payments platform with wallets, transfers, and M-Pesa and Stripe deposits and payouts. I built most of the backend and frontend, together with collaborators [Mark Musyoka](https://github.com/Mark-Musyoka) and [Frankline Tumaini](https://github.com/Antony-debug-jpg).
 `FastAPI` `Next.js` `PostgreSQL` `Redis` `Stripe`
