@@ -45,7 +45,7 @@ I enjoy building products from the ground up — from concept and design through
 **[WorldCupDNA](https://worldcupdna-frontend.vercel.app)** — Fan Identity & Prediction Platform built for FIFA World Cup 2026. Next.js frontend, FastAPI backend, tracking all 104 matches.
 `Next.js` `FastAPI` `PostgreSQL` `Vercel` `Render`
 
-**[Canvaly Studio](https://canvaslystudio.vercel.app)** — Sleek, minimalist browser-based canvas editor. Single-file, no-build-step design.
+**[Canvaly Studio](https://canvalystudio.vercel.app)** — Sleek, minimalist browser-based canvas editor. Single-file, no-build-step design.
 `HTML` `Canvas API` `JavaScript`
 
 **[Animalia Vocalization](https://animalia-vocalization.vercel.app)** — Real-time audio analysis platform: live waveforms and spectrograms via the Web Audio API, pitch detection through autocorrelation.
