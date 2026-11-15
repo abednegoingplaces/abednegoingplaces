@@ -2,7 +2,9 @@
 
 **Computer Science Student | Full-Stack Developer | Data Analytics | Cyber Security** 💻
 
-Open to collaboration
+Open to freelance work and collaboration
+
+[Portfolio](https://abednego-portfolio-five.vercel.app/) · [Upwork](https://www.upwork.com/freelancers/~01652a2314b250f0ff)
 
 ---
 
@@ -23,21 +25,24 @@ Alongside this, I'm studying **networking** through **Cisco Networking Academy**
 
 On the **cybersecurity** side, I run a dual-boot Kali Linux setup and study attacker techniques hands-on: phishing mechanics (cookie theft, session hijacking), malware taxonomy, and account-takeover vectors — including analyzing a real confused-deputy exploit in a Meta AI chatbot. I've also studied the cyber kill chain end-to-end and built projects with a security-first mindset (e.g. command whitelisting and pre-approved remote actions in a server-monitoring tool I designed). This started as self-directed, hands-on study, and I'm now formalizing it with a **cybersecurity course on Cisco Networking Academy (in progress)**. It's shaping how I think about the software I build. Major subjects: types of cyberattacks and threats, protecting personal and organizational data, security principles and network defense, and career paths in cybersecurity.
 
-I enjoy building products from the ground up — from concept and design through to deployment — so feel free to reach out if you'd like to talk tech, collaborate, or just connect.
+I currently take on freelance work on **Upwork** and **Fiverr**, building full-stack web apps with Next.js and FastAPI and AI-powered tools. I enjoy building products from the ground up — from concept and design through to deployment — so feel free to reach out if you'd like to talk tech, collaborate, or just connect.
 
 ---
 
 ## Currently
 
+* Freelancing on Upwork and Fiverr (full-stack web apps and AI)
 * Computer Science student (2nd year)
-* Networking (Cisco Networking Academy, in progress)
-* Cybersecurity course on Cisco Networking Academy (in progress)
-* Exploring AI and applied data science
-* Building BridgePay
+* Networking and cybersecurity courses on Cisco Networking Academy (in progress)
+* Growing toward AI and applied data science
+* Building BridgePay with collaborators
 
 ---
 
 ## Featured Projects
+
+**[Abeddy's AI Assistant](https://github.com/abednegoingplaces/abeddys-ai-assistant)** — Personal WhatsApp & Instagram auto-reply bot with a rules-first escalation pattern before falling back to an LLM.
+`Node.js` `TypeScript` `Prisma` `PostgreSQL` `Redis` `Railway`
 
 **[BridgePay](https://github.com/Mark-Musyoka/BridgePay-Frontend)** -- Payments platform with wallets, transfers, and M-Pesa and Stripe deposits and payouts. I built most of the backend and frontend, together with collaborators [Mark Musyoka](https://github.com/Mark-Musyoka) and [Frankline Tumaini](https://github.com/Antony-debug-jpg).
 `FastAPI` `Next.js` `PostgreSQL` `Redis` `Stripe`
@@ -50,9 +55,6 @@ I enjoy building products from the ground up — from concept and design through
 
 **[Animalia Vocalization](https://animalia-vocalization.vercel.app)** — Real-time audio analysis platform: live waveforms and spectrograms via the Web Audio API, pitch detection through autocorrelation.
 `Web Audio API` `JavaScript`
-
-**Abeddy's AI Assistant** — Personal WhatsApp & Instagram auto-reply bot with a rules-first escalation pattern before falling back to an LLM.
-`Node.js` `TypeScript` `Prisma` `PostgreSQL` `Redis` `Railway`
 
 **Vaultra** — FastAPI backend for a multi-user private file storage system: JWT auth, Backblaze B2 via presigned URLs, Neon Postgres.
 `FastAPI` `PostgreSQL` `Backblaze B2`
