@@ -10,14 +10,14 @@ Open to freelance work and collaboration
 
 ## About
 
-I'm a computer science student (2nd year) and a passionate full-stack developer with hands-on experience building modern web applications end-to-end. I work primarily in Python (FastAPI) on the backend, with Next.js, React, TanStack Start, and TypeScript on the frontend, styled with Tailwind CSS. I have a strong foundation in relational databases (PostgreSQL) and enjoy turning ideas into functional, deployed products.
+I'm a computer science student (2nd year) and a passionate full-stack developer with hands-on experience building modern web applications end-to-end. I work primarily in Python (FastAPI) on the backend, with Next.js, React, TanStack Start, and TypeScript on the frontend, styled with Tailwind CSS. I also build server-rendered apps in **PHP and Laravel** with MySQL. I have a strong foundation in relational databases (PostgreSQL, MySQL) and enjoy turning ideas into functional, deployed products.
 
-* Full-Stack Web Development (Next.js, TanStack Start, FastAPI, TypeScript)
+* Full-Stack Web Development (Next.js, TanStack Start, FastAPI, TypeScript, PHP/Laravel)
 * UI/UX Design & Frontend Architecture
 * Database Design (PostgreSQL)
 * Data Analytics (Power BI, Python data pipelines)
 * Cyber Security Exploration
-* Cloud Deployment (Vercel, Render)
+* Cloud Deployment (Vercel, Render, Docker)
 
 Lately I've been branching into **data analytics** — completed an ICT Authority of Kenya Data Analytics training (with Sigma Digital Technical Institute, July 2026), working with Power BI and Python-to-Power BI pipelines. I'm looking to learn more and grow toward **AI and applied data science**.
 
@@ -40,6 +40,12 @@ I currently take on freelance work on **Upwork** and **Fiverr**, building full-s
 ---
 
 ## Featured Projects
+
+**[Hostel Booking System](https://github.com/abednegoingplaces/hostel-booking-system)** ([live](https://group27-hostel-booking.onrender.com)) — Students book hostel rooms and wardens approve them, with a free-bed count that can't be overbooked (approvals lock the room in a transaction). Built twice, in plain PHP and in Laravel, as a 3-person university group project. 48 automated tests.
+`PHP` `Laravel` `MySQL` `PostgreSQL` `Docker` `Render`
+
+**[Secure Login System](https://github.com/abednegoingplaces/php-secure-login)** — Login, registration and role-based dashboard in plain PHP and in Laravel: hashed passwords, CSRF tokens, session-fixation and brute-force protection.
+`PHP` `Laravel` `MySQL`
 
 **[Abeddy's AI Assistant](https://github.com/abednegoingplaces/abeddys-ai-assistant)** — Personal WhatsApp & Instagram auto-reply bot with a rules-first escalation pattern before falling back to an LLM.
 `Node.js` `TypeScript` `Prisma` `PostgreSQL` `Redis` `Railway`
@@ -68,6 +74,7 @@ I currently take on freelance work on **Upwork** and **Fiverr**, building full-s
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
@@ -86,11 +93,13 @@ I currently take on freelance work on **Upwork** and **Fiverr**, building full-s
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 
 **Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Neon](https://img.shields.io/badge/-Neon-00E599?style=flat-square&logo=neon&logoColor=white)
@@ -109,6 +118,7 @@ I currently take on freelance work on **Upwork** and **Fiverr**, building full-s
 
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
@@ -125,13 +135,17 @@ I currently take on freelance work on **Upwork** and **Fiverr**, building full-s
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-three-lac-48.vercel.app/api?username=abednegoingplaces&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats-three-lac-48.vercel.app/api/top-langs/?username=abednegoingplaces&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats-three-lac-48.vercel.app/api?username=abednegoingplaces&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats-three-lac-48.vercel.app/api/top-langs/?username=abednegoingplaces&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=21600" alt="Top languages"/>
 </p>
+
+<p align="center"><sub><b>Left:</b> stars, commits (including private), pull requests and issues. <b>Right:</b> the languages I write most, measured across my public repositories. Both refresh every few hours.</sub></p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abednegoingplaces&theme=tokyonight&hide_border=true" alt="Streak"/>
 </p>
+
+<p align="center"><sub>My contribution streak: total contributions, current streak and longest streak.</sub></p>
 
 <p align="center">
   <picture>
@@ -140,6 +154,8 @@ I currently take on freelance work on **Upwork** and **Fiverr**, building full-s
     <img src="assets/insights/metrics-rhythm.svg" alt="Contribution Rhythm"/>
   </picture>
 </p>
+
+<p align="center"><sub>When I code during the week, updated every Sunday.</sub></p>
 
 ---
 
