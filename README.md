@@ -142,20 +142,16 @@ I currently take on freelance work on **Upwork** and **Fiverr**, building full-s
 <p align="center"><sub><b>Left:</b> stars, commits (including private), pull requests and issues. <b>Right:</b> the languages I write most, measured across my public repositories. Both refresh every few hours.</sub></p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abednegoingplaces&theme=tokyonight&hide_border=true" alt="Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=abednegoingplaces&theme=tokyonight&hide_border=true" alt="Streak"/>
 </p>
 
 <p align="center"><sub>My contribution streak: total contributions, current streak and longest streak.</sub></p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/insights/metrics-rhythm.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/insights/metrics-rhythm-light.svg">
-    <img src="assets/insights/metrics-rhythm.svg" alt="Contribution Rhythm"/>
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abednegoingplaces&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph"/>
 </p>
 
-<p align="center"><sub>When I code during the week, updated every Sunday.</sub></p>
+<p align="center"><sub>My daily contributions over the last month, updated automatically.</sub></p>
 
 ---
 
